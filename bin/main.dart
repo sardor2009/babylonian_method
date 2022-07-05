@@ -13,5 +13,5 @@ double func(int s,int d){
     return x;
 }
 void main(){
-    print(func(16,3));
+    print(func(24,6));
 }
